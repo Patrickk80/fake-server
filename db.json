@@ -1,0 +1,12 @@
+{
+    "game": {
+        "valid": true,
+        "finished": false,
+        "winner": null,
+        "board-status": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+        "possible-moves": []
+    },
+    "move": {
+        "move": "a1b1"
+    }
+}
